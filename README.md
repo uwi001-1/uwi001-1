@@ -7,6 +7,7 @@
 ---
 
 ### Technical Skills
+| :--- | :--- |
 | **Languages** | **Python**, **C++**, **Java**, **PostgreSQL**, **HTML** |
 | **Core Concepts** | **Object-Oriented Programming**, **Data Structures and Algorithms**, **DBMS**, **RESTful API Design** |
 | **Tools & Frameworks** | **Django**, **Postman**, **GitHub**, **Tableau**, **Power BI** |
