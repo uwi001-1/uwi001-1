@@ -7,6 +7,7 @@
 ---
 
 ### Technical Skills
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | **Python**, **C++**, **Java**, **PostgreSQL**, **HTML** |
 | **Core Concepts** | **Object-Oriented Programming**, **Data Structures and Algorithms**, **DBMS**, **RESTful API Design** |
