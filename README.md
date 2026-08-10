@@ -1,6 +1,6 @@
 <div align="center">
   
-## $\\color{#58a6ff}{\text{Hi, I'm Kripa Hayanju}}$ 👋
+# $\\color{#58a6ff}{\text{Hi, I'm Kripa Hayanju}}$ 👋
 
 </div>
 
