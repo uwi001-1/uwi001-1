@@ -1,5 +1,5 @@
 <div align="center">
-## Hi, I'm Kripa Hayanju 👋
+### Hi, I'm Kripa Hayanju 👋
 </div>
 
 - I’m currently studying at **Texas State University**, pursuing a **Bachelor of Science in Computer Science** with a minor in **Data Analytics**.
