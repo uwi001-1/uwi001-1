@@ -4,7 +4,7 @@
 
 </div>
 
-I’m a $\\color{#f85149}{\text{**Computer Science** }}$ major pursuing a **Bachelor of Science** with a minor in **Data Analytics** at Texas State University. I am expanding my skills in software development, database management, and data analytics. Passionate about building efficient applications and turning data into actionable insights.
+I’m a $\\color{#f85149}{\text{Computer Science}}$ major pursuing a **Bachelor of Science** with a minor in **Data Analytics** at Texas State University. I am expanding my skills in software development, database management, and data analytics. Passionate about building efficient applications and turning data into actionable insights.
 
 ---
 
