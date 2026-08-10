@@ -1,10 +1,10 @@
 <div align="center">
   
-### Hi, I'm Kripa Hayanju 👋
+## $\\color{#58a6ff}{\text{Hi, I'm Kripa Hayanju}}$ 👋
 
 </div>
 
-- I’m currently studying at **Texas State University**, pursuing a **Bachelor of Science in Computer Science** with a minor in **Data Analytics**.
+- I’m a **Computer Science** major pursuing a **Bachelor of Science** with a minor in **Data Analytics** at Texas State University.
 - I am expanding my skills in software development, database management, and data analytics.
 - Passionate about building efficient applications and turning data into actionable insights.
 
