@@ -5,9 +5,9 @@
 - Passionate about building efficient applications and turning data into actionable insights.
 
 ### Technical Skills
-**Languages:** Python, C++, Java, PostgreSQL, HTML
-**Core Concepts:**	Object-Oriented Programming, Data Structures and Algorithms, DBMS, RESTful API Design
-**Tools & Frameworks:**	Django, Postman, GitHub, Tableau, Power BI
+- **Languages:** Python, C++, Java, PostgreSQL, HTML
+- **Core Concepts:**	Object-Oriented Programming, Data Structures and Algorithms, DBMS, RESTful API Design
+- **Tools & Frameworks:**	Django, Postman, GitHub, Tableau, Power BI
 
 ### Connect with Me
-- Linkedin: https://www.linkedin.com/in/kripa-hayanju/
+-> Linkedin: https://www.linkedin.com/in/kripa-hayanju/
