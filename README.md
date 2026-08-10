@@ -1,4 +1,6 @@
-## Hi, I'm Kripa Hayanju
+<div align="center">
+## Hi, I'm Kripa Hayanju 👋
+</div>
 
 - I’m currently studying at **Texas State University**, pursuing a **Bachelor of Science in Computer Science** with a minor in **Data Analytics**.
 - I am expanding my skills in software development, database management, and data analytics.
@@ -14,5 +16,5 @@
 
 ---
 
-### Connect with Me
+### Connect with Me 🌱
 - LinkedIn: [kripa-hayanju](https://www.linkedin.com/in/kripa-hayanju/)
